@@ -1,0 +1,5 @@
+.codelite/
+.clang/
+Debug/
+
+ohr_tx_touch.mk
